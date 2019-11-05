@@ -1,0 +1,7 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto';
+
+    background-color: var(--main-bg-color);
+    color: var( --txt-dark-color);
+}
